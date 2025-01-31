@@ -54,14 +54,6 @@ Z999BBE5
 - **CombineSegments**: Combines segments into complete location strings.
 - **GetStringSubStrings**: Splits a location string into segments based on the format.
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/dynamic-location-generator.git
-    ```
-2. Open the project in your preferred C# IDE (e.g., Visual Studio).
-3. Build and run the project.
-
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or find any issues, please open an issue or submit a pull request.
 
