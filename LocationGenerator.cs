@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-    public class EmplacementHelper
+    public class LocationGenerator
     {
         static string letterBaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; // Base-26 for letters
         static string digitBaseChars = "0123456789"; // Base-10 for digits
