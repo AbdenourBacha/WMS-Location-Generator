@@ -31,7 +31,7 @@ string format = "AABBCDDDE";
 string startLocation = "A101AAA1";
 string endLocation = "Z999BBE5";
 
-List<string> locations = EmplacementHelper.Generate(format, startLocation, endLocation);
+List<string> locations = LocationGenerator.Generate(format, startLocation, endLocation);
 
 foreach (var location in locations)
 {
